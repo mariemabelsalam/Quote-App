@@ -1,0 +1,19 @@
+h1 {
+  font-size: 5rem;
+  font-weight: 900;
+}
+h2,
+h3 {
+  font-size: 2.1875rem;
+}
+
+.custom-padding {
+  --bs-btn-padding-x: 3.4375rem;
+  --bs-btn-padding-y: 1.25rem;
+}
+
+@media (max-width: 767px) {
+  h1 {
+    font-size: 2.5rem;
+  }
+}
