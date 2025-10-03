@@ -19,6 +19,3 @@ The program ensures that quotes *do not repeat until all quotes have been shown 
 - *HTML5* – structure of the page.  
 - *CSS3* – styling and layout.  
 - *JavaScript (ES6)* – logic for generating and displaying quotes.  
----
-
-## 📌 Example Quote
